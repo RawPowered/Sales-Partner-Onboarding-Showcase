@@ -1,0 +1,25 @@
+SPDX-License-Identifier: CC0-1.0
+
+The original generic worksheet text in sources/ and its matching generated
+PDFs in pdf/ are dedicated to the public domain under CC0 1.0 Universal.
+
+To the extent possible under law, the author has waived all copyright and
+related or neighboring rights to these generic template materials.
+
+You may copy, modify, distribute, and use them, including commercially,
+without requesting permission or providing attribution. They are supplied
+without warranty. No legal review, suitability, enforceability, or endorsement
+is represented. Patent, trademark, privacy, and third-party rights are not
+granted by this dedication.
+
+These generic templates have not been reviewed by a legal representative.
+They are not legal advice or production-ready agreements. Have a qualified
+legal representative review and adapt them for your organization and
+jurisdiction before live production use.
+
+The complete governing CC0 1.0 Universal legal code is included in
+CC0-1.0-LEGALCODE.txt and is available from Creative Commons at:
+https://creativecommons.org/publicdomain/zero/1.0/legalcode.en
+
+Scope: only the original blank worksheets and their generated PDFs in this
+directory. This does not relicense plugin code or third-party/company content.

@@ -1,0 +1,26 @@
+{
+  "source_repository": "https://github.com/RawPowered/BlueRoof-WP-Theme-Showcase",
+  "source_commit": "015178d9f815980e149e5eebfbf5f72f0fb76795",
+  "icons_copied_without_modification": [
+    {
+      "file": "php-glass.webp",
+      "sha256": "cfd4e18ebf68f8b91fc06cb6f86c597cbcd0e447545fa4420577afd4af2e375d"
+    },
+    {
+      "file": "wordpress-glass.webp",
+      "sha256": "0f6332dab8779004b81edbccee6f01947c011152d60254955fd933964ab190ef"
+    },
+    {
+      "file": "html5-glass.webp",
+      "sha256": "8f9ff274d7ac15fc0158fe45472b636adb12c639809ce70945c93ddd9ee6a68f"
+    },
+    {
+      "file": "css3-glass.webp",
+      "sha256": "f0f79f8f8d326eb54bf98627a352645f2bcc11c58a0c5819e9cc97327fef1050"
+    },
+    {
+      "file": "javascript-glass.webp",
+      "sha256": "102ff712e5902aeb91e3936cf440d66575b7d6da46703e5df0888f2152490a9a"
+    }
+  ]
+}

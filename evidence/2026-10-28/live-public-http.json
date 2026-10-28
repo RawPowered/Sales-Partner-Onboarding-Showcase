@@ -1,0 +1,41 @@
+{
+  "source": "Unauthenticated HTTP, no browser cookies",
+  "checks": {
+    "public_form": {
+      "status": 200,
+      "challenge": false,
+      "form_visible": true,
+      "sample_email_exposed": false,
+      "cache_control": "no-cache, must-revalidate, max-age=0, no-store, private",
+      "robots": "noindex, nofollow",
+      "login_redirect": false
+    },
+    "private_rest": {
+      "status": 404,
+      "challenge": false,
+      "form_visible": false,
+      "sample_email_exposed": false,
+      "cache_control": null,
+      "robots": "noindex",
+      "login_redirect": false
+    },
+    "private_record": {
+      "status": 404,
+      "challenge": false,
+      "form_visible": false,
+      "sample_email_exposed": false,
+      "cache_control": "no-cache, must-revalidate, max-age=0, no-store, private",
+      "robots": null,
+      "login_redirect": false
+    },
+    "anonymous_course": {
+      "status": 302,
+      "challenge": false,
+      "form_visible": false,
+      "sample_email_exposed": false,
+      "cache_control": "no-cache, no-store, must-revalidate, max-age=0",
+      "robots": "noindex, nofollow",
+      "login_redirect": true
+    }
+  }
+}

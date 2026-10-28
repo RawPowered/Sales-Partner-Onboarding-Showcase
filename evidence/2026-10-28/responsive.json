@@ -1,0 +1,40 @@
+{
+  "local": [
+    {
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "overflow": false,
+      "pageWidth": 305,
+      "width": 320
+    },
+    {
+      "overflow": false,
+      "pageWidth": 753,
+      "width": 768
+    },
+    {
+      "overflow": false,
+      "pageWidth": 1425,
+      "width": 1440
+    }
+  ],
+  "live": [
+    {
+      "overflow": false,
+      "pageWidth": 305,
+      "width": 320
+    },
+    {
+      "overflow": false,
+      "pageWidth": 375,
+      "width": 390
+    },
+    {
+      "overflow": false,
+      "pageWidth": 753,
+      "width": 768
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+    "passed": true,
+    "check_count": 27,
+    "checks": {
+        "legacy_ids_preserved": true,
+        "repeated_sanitization_preserves_new_ids_and_switches": true,
+        "rename_retains_original_identity": true,
+        "new_roles_get_distinct_ids": true,
+        "team_titles_configurable_and_deduplicated": true,
+        "custom_wording_rendered": true,
+        "roles_render_correct_format": true,
+        "custom_individual_role_accepted": true,
+        "role_label_snapshot_saved": true,
+        "rename_does_not_change_previous_receipt": true,
+        "rename_does_not_break_duplicate_protection": true,
+        "admin_shows_historical_label": true,
+        "disabled_role_hidden": true,
+        "disabled_role_rejected_server_side": true,
+        "new_team_requires_business_fields": true,
+        "custom_team_and_title_accepted": true,
+        "unknown_team_title_rejected": true,
+        "unknown_role_rejected": true,
+        "duplicate_labels_rejected": true,
+        "forged_existing_id_rejected": true,
+        "nested_input_rejected": true,
+        "invalid_format_rejected": true,
+        "too_many_roles_rejected": true,
+        "labels_sanitized": true,
+        "all_roles_removed_closes_form": true,
+        "no_wordpress_roles_or_users_created": true,
+        "legacy_record_retains_original_role_wording": true
+    }
+}

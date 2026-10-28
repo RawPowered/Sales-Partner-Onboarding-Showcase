@@ -1,0 +1,28 @@
+{
+  "passed": true,
+  "check_count": 22,
+  "checks": {
+    "public_form_renders": true,
+    "form_not_cached": true,
+    "form_noindex": true,
+    "nonce_required": true,
+    "http_consent_required": true,
+    "javascript_free_submission": true,
+    "http_replay_safe": true,
+    "private_rest_denied": true,
+    "private_records_not_in_search": true,
+    "anonymous_course_requires_login": true,
+    "subscriber_course_available": true,
+    "training_requires_nonce": true,
+    "exam_requires_lessons": true,
+    "lesson_account_saved": true,
+    "lesson_workspace_saved": true,
+    "lesson_records_saved": true,
+    "lesson_financing_saved": true,
+    "lesson_commissions_saved": true,
+    "lesson_handoff_saved": true,
+    "assessment_graded_and_certificate_issued": true,
+    "certificate_not_reissued": true,
+    "certified_progress_protected": true
+  }
+}
