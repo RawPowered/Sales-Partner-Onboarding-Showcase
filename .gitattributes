@@ -1,0 +1,5 @@
+# Preserve template PDF offsets, image data, and recorded asset hashes exactly.
+* -text
+*.pdf binary
+*.png binary
+*.webp binary
